@@ -14,9 +14,17 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+{% include masthead.html %}
 
-    {{ content }}
+{% if page.permalink == "/" %}
+<figure class="home-hero">
+  <img src="{{ '/images/fieldwork-banner.jpg.JPG' | relative_url }}"
+       alt="Forested mountains in Ranomafana National Park, Madagascar">
+  <figcaption>Maharira Mountain, Ranomafana National Park, Madagascar (2025). Photograph: Mariela Oviedo-Diego.</figcaption>
+</figure>
+{% endif %}
+
+{{ content }}
 
     <div class="page__footer">
       <footer>
