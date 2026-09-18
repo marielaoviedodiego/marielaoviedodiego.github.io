@@ -114,3 +114,15 @@ body {
 .page__content {
   max-width: 840px;
 }
+/* Evitar repetir el nombre debajo de la foto */
+.author__name {
+  display: none;
+}
+
+/* Destacar el nombre en la barra superior */
+.greedy-nav .site-title,
+.greedy-nav .masthead__menu-item--lg a {
+  color: #35665b;
+  font-size: 1.12em;
+  font-weight: 700;
+}
