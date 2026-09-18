@@ -66,9 +66,14 @@
   background: #a7614b;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #244f58;
+/* Editorial headings */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__subtitle,
+.author__name {
+  font-family: "STIX Two Text", Georgia, serif;
+  color: #a7614b;
+  font-weight: 700;
 }
 
 /* Footer */
@@ -102,6 +107,10 @@ body {
 }
 
 /* Comfortable reading width and spacing */
+
 .page__content p {
   line-height: 1.7;
+}
+.page__content {
+  max-width: 840px;
 }
