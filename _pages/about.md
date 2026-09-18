@@ -5,8 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-![Fieldwork and arachnid research](/images/fieldwork-banner.jpg)
-
+![Fieldwork and arachnid research](/images/fieldwork-banner.jpg.jpeg)
 *Fieldwork in Madagascar. Photograph: Mariela Oviedo-Diego.*
 
 # Mariela Oviedo-Diego
