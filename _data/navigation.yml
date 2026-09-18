@@ -9,28 +9,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /selected-publications/
     
   - title: "Research Projects"
     url: /research/
+  
+  - title: "Teaching & Mentoring"
+    url: /teaching-mentoring/
     
-  - title: "Talks"
-    url: /talks/    
+  - title: "Outreach"
+    url: /outreach/     
+    
+  - title: "Fieldwork"
+    url: /fieldwork/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Photography"
+    url: /photography/
     
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /cv-download/
