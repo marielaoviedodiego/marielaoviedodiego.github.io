@@ -41,8 +41,9 @@ author:
   orcid            : "https://orcid.org/0000-0002-4469-6244"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Mariela_Oviedo-Diego2"
+  inaturalist      : "https://www.inaturalist.org/people/scorpion_marie"
   scopus           : # URL
   zotero           : # URL
 
