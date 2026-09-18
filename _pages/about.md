@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-![Fieldwork and arachnid research](/images/fieldwork-banner.jpg)
+![Fieldwork and arachnid research](/images/fieldwork-banner.jpg.JPG)
 *Maharira Mountain, Ranomafana National Park, Madagascar (2025). Photograph: Mariela Oviedo-Diego.*
 
 # Mariela Oviedo-Diego
