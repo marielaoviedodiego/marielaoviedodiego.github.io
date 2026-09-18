@@ -126,3 +126,31 @@ body {
   font-size: 1.12em;
   font-weight: 700;
 }
+/* Landscape banner on the home page */
+.home-hero {
+  margin: 0 0 2rem;
+}
+
+.home-hero img {
+  display: block;
+  width: 100%;
+  height: clamp(260px, 32vw, 480px);
+  object-fit: cover;
+  object-position: center 55%;
+}
+
+.home-hero figcaption {
+  max-width: 1400px;
+  margin: 0.5rem auto 0;
+  padding: 0 1.5rem;
+  color: #52636a;
+  font-family: "STIX Two Text", Georgia, serif;
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+@media (max-width: 600px) {
+  .home-hero img {
+    height: 230px;
+  }
+}
