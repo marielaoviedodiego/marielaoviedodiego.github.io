@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@400;500;600;700&display=swap");
+
 /*
  * This file controls what is imported from /_sass
  *
@@ -37,3 +39,69 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Mariela's academic site: muted blue, green, and terracotta */
+
+:root {
+  --global-base-color: #244f58;
+  --global-bg-color: #fbfcfa;
+  --global-footer-bg-color: #244f58;
+  --global-link-color: #286b78;
+  --global-link-color-hover: #a7614b;
+  --global-link-color-visited: #587984;
+  --global-masthead-link-color: #283e42;
+  --global-masthead-link-color-hover: #a7614b;
+  --global-text-color: #29373a;
+}
+
+/* Menu */
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+/* A subtle accent on the selected menu item */
+.greedy-nav .visible-links a::before {
+  background: #a7614b;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #244f58;
+}
+
+/* Footer */
+.page__footer {
+  background-color: #244f58;
+  color: #f6f4ef;
+}
+
+.page__footer a,
+.page__footer .fa {
+  color: #f6f4ef;
+}
+
+/* Editorial typography */
+body {
+  font-family: "STIX Two Text", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Keep navigation crisp and contemporary */
+.masthead,
+.greedy-nav,
+.greedy-nav a {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  font-weight: 700;
+}
+
+/* Comfortable reading width and spacing */
+.page__content p {
+  line-height: 1.7;
+}
