@@ -7,14 +7,21 @@ author_profile: true
 # Mariela Oviedo-Diego
 
 **Evolutionary biologist and arachnologist**
-
 I study how interactions among organisms shape morphological, behavioral, and functional diversity. My research connects observations in the field with behavioral experiments, comparative morphology, and advanced imaging to understand how traits evolve and what they do.
 
-I am a Peter Buck Postdoctoral Fellow at the Smithsonian National Museum of Natural History. My current work examines ecological and functional divergence in Malagasy pelican spiders, with a focus on how closely related predators coexist. I combine information on habitat use, prey capture, external morphology, and internal anatomy, including three-dimensional reconstructions from micro-CT data.
+<h2 class="journey-title">How did I get here?</h2>
 
-My earlier research focused on reproductive behavior and sexual selection in scorpions. Across these projects, I am interested in the mechanisms linking ecological and reproductive interactions to phenotypic diversification. Although arachnids are my principal study systems, the questions and approaches I use extend to other organisms.
+  I grew up in a subtropical region of Argentina, surrounded by countless small creatures. From an early age, I learned not only to appreciate them, but also to be curious about what they were doing and why. 
 
-I am interested in postdoctoral opportunities beginning in **May 2027**, particularly projects involving evolutionary biology, species interactions, functional or comparative morphology, behavioral ecology, and museum collections.
+  I completed my undergraduate and PhD training in Córdoba, central Argentina, among mountains and dry forests. Although the biodiversity there was different from that of the subtropics where I grew up, my questions became broader: What drives the remarkable diversity of animal morphology and behavior? How do ecological and reproductive interactions shape the evolution of populations and species? how mate choice and reproductive behavior can influence population dynamics, reproductive isolation, and interactions among species?. During my PhD, I explored these questions by studying the consequences of interspecific interactions in montane scorpion populations.
+
+  Over time, new questions led me to new organisms and collaborations. I have worked with researchers studying harvestmen, solifuges, pseudoscorpions, spiders, and several groups of scorpions. These collaborations expanded the way I think about evolution and strengthened my interest in combining fieldwork, natural history, behavioral observations and comparative morphology.
+
+  I am currently a Postdoctoral Fellow at the Smithsonian National Museum of Natural History in Washington, D.C., where I work with Malagasy pelican spiders. If you have never seen a pelican spider, [Google it right now](https://www.nickybay.com/pelican-spiders-the-spider-assassin-specialist/)...amazing!. My current research investigates what underlies their extraordinary morphological diversity and how it relates to ecology, behavior, and evolutionary history. As part of this work, I have traveled to Madagascar to find these spiders in their natural habitats.
+
+  For me, science begins with curiosity and grows through collaboration. I especially enjoy connecting observations made in nature with evidence from experiments, museum collections, imaging, and comparative data. I also care deeply about making science accessible, and I enjoy sharing my research with others and inspiring some of the same enthusiasm I feel for evolution and arachnids. Outside the laboratory, I am happiest when I am surrounded by nature, looking for small creatures and taking photographs. 
+
+  Feel free to contact me for any question or request!
 
 [Explore my research](/research/) · [See my publications](/selected-publications/) · [Contact me](mailto:oviedodiegom@si.edu)
 ------
