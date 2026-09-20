@@ -11,6 +11,20 @@ I study how interactions among organisms shape morphological, behavioral, and fu
 
 <h2 class="journey-title">How did I get here?</h2>
 
+<div class="story-gallery">
+  <img src="/images/foto-1.JPG"
+       alt="Fieldwork in Argentina"
+       loading="lazy">
+
+  <img src="/images/foto-2.png"
+       alt="Arachnid research and fieldwork"
+       loading="lazy">
+
+  <img src="/images/foto-3.png"
+       alt="Fieldwork with pelican spiders"
+       loading="lazy">
+</div>
+
   I grew up in a subtropical region of Argentina, surrounded by countless small creatures. From an early age, I learned not only to appreciate them, but also to be curious about what they were doing and why. 
 
 <p>
@@ -25,6 +39,8 @@ I study how interactions among organisms shape morphological, behavioral, and fu
 During my PhD, I explored these questions by studying the consequences of interspecific interactions in montane scorpion populations.
 
   Over time, new questions led me to new organisms and collaborations. I have worked with researchers studying harvestmen, solifuges, pseudoscorpions, spiders, and several groups of scorpions. These collaborations expanded the way I think about evolution and strengthened my interest in combining fieldwork, natural history, behavioral observations and comparative morphology.
+
+  <div class="clear-story-gallery"></div>
 
   <h2 class="journey-title">Where am I now, and where am I headed?</h2>
 
