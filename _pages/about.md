@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Mariela Oviedo-Diego
 
-**Evolutionary biologist and arachnologist**
+**Evolutionary biologist and arachnologist**. 
 I study how interactions among organisms shape morphological, behavioral, and functional diversity. My research connects observations in the field with behavioral experiments, comparative morphology, and advanced imaging to understand how traits evolve and what they do.
 
 <h2 class="journey-title">How did I get here?</h2>
