@@ -13,7 +13,16 @@ I study how interactions among organisms shape morphological, behavioral, and fu
 
   I grew up in a subtropical region of Argentina, surrounded by countless small creatures. From an early age, I learned not only to appreciate them, but also to be curious about what they were doing and why. 
 
-  I completed my undergraduate and PhD training in Córdoba, central Argentina, among mountains and dry forests. Although the biodiversity there was different from that of the subtropics where I grew up, my questions became broader: What drives the remarkable diversity of animal morphology and behavior? How do ecological and reproductive interactions shape the evolution of populations and species? how mate choice and reproductive behavior can influence population dynamics, reproductive isolation, and interactions among species?. During my PhD, I explored these questions by studying the consequences of interspecific interactions in montane scorpion populations.
+<p>
+  I completed my undergraduate and PhD training in Córdoba, central Argentina, among mountains and dry forests. Although the biodiversity there was different from that of the subtropics where I grew up, my questions became broader:
+</p>
+
+<ul class="research-questions">
+  <li>What drives the remarkable diversity of animal morphology and behavior?</li>
+  <li>How do ecological and reproductive interactions shape the evolution of populations and species?</li>
+  <li>How can mate choice and reproductive behavior influence population dynamics, reproductive isolation, and interactions among species?</li>
+</ul>
+During my PhD, I explored these questions by studying the consequences of interspecific interactions in montane scorpion populations.
 
   Over time, new questions led me to new organisms and collaborations. I have worked with researchers studying harvestmen, solifuges, pseudoscorpions, spiders, and several groups of scorpions. These collaborations expanded the way I think about evolution and strengthened my interest in combining fieldwork, natural history, behavioral observations and comparative morphology.
 
