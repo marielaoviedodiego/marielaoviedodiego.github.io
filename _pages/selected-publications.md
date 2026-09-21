@@ -5,10 +5,9 @@ permalink: /selected-publications/
 author_profile: true
 ---
 
-<div class="publication-side-photo">
-  <img src="/images/foto-5.jpg"
-       alt="Mariela Oviedo-Diego conducting research">
-</div>
+<img src="/images/foto-5.jpg"
+     alt="Mariela Oviedo-Diego conducting research"
+     style="float: right; width: 290px; height: 210px; object-fit: cover; object-position: center; margin: 0.3rem 0 1.5rem 2rem; border-radius: 5px; box-shadow: 0 3px 10px rgba(36, 79, 88, 0.14);">
 
 My research spans evolutionary biology, animal behavior, reproductive biology, and functional morphology, primarily using arachnids as study systems. You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=p2i71R8AAAAJ) and [ORCID](https://orcid.org/0000-0002-4469-6244). Please [email me](mailto:oviedodiegom@si.edu) if you have trouble accessing an article.
 
