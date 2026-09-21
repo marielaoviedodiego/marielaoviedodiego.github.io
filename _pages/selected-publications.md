@@ -5,30 +5,7 @@ permalink: /selected-publications/
 author_profile: true
 ---
 
-My publications span evolutionary biology, animal behavior, reproductive biology, and comparative morphology, primarily using arachnids as study systems.
-
-For my complete and current publication record, please visit my [ORCID profile](https://orcid.org/0000-0002-4469-6244).
-
-## Selected publications
-
----
-layout: archive
-title: "Publications"
-permalink: /selected-publications/
-author_profile: true
----
-
 My research spans evolutionary biology, animal behavior, reproductive biology, and functional morphology, primarily using arachnids as study systems. You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=p2i71R8AAAAJ) and [ORCID](https://orcid.org/0000-0002-4469-6244). Please [email me](mailto:oviedodiegom@si.edu) if you have trouble accessing an article.
-
-## Selected publications
----
-layout: archive
-title: "Publications"
-permalink: /selected-publications/
-author_profile: true
----
-
-My work spans evolutionary biology, animal behavior, reproductive biology, and functional morphology, with a particular focus on arachnids. You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=p2i71R8AAAAJ) and [ORCID](https://orcid.org/0000-0002-4469-6244). Please [email me](mailto:oviedodiegom@si.edu) if you have trouble accessing an article.
 
 ## Peer-reviewed publications
 
