@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="publication-side-photo">
-  <img src="{{ '/images/foto-5.JPG' | relative_url }}"
+  <img src="{{ '/images/foto-5.jpg' | relative_url }}"
        alt="Mariela Oviedo-Diego conducting research"
        loading="lazy">
 </div>
