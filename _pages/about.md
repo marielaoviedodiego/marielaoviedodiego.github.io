@@ -12,11 +12,11 @@ I study how interactions among organisms shape morphological, behavioral, and fu
 <h2 class="journey-title">How did I get here?</h2>
 
 <div class="story-gallery">
-  <img src="/images/foto-1.jpg"
+  <img src="/images/foto-1.JPG"
        alt="Fieldwork and research in Argentina"
        loading="lazy">
 
-  <img src="/images/foto-2.jpg"
+  <img src="/images/foto-2.png"
        alt="Arachnid research"
        loading="lazy">
 </div>
@@ -41,11 +41,11 @@ During my PhD, I explored these questions by studying the consequences of inters
   <h2 class="journey-title">Where am I now, and where am I headed?</h2>
 
   <div class="story-gallery">
-  <img src="/images/foto-4.jpg"
+  <img src="/images/foto-4.png"
        alt="Fieldwork with pelican spiders in Madagascar"
        loading="lazy">
 
-  <img src="/images/foto-3.jpg"
+  <img src="/images/foto-3.png"
        alt="Research at the Smithsonian National Museum of Natural History"
        loading="lazy">
 </div>
