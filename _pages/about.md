@@ -12,16 +12,12 @@ I study how interactions among organisms shape morphological, behavioral, and fu
 <h2 class="journey-title">How did I get here?</h2>
 
 <div class="story-gallery">
-  <img src="/images/foto-1.JPG"
-       alt="Fieldwork in Argentina"
+  <img src="/images/foto-1.jpg"
+       alt="Fieldwork and research in Argentina"
        loading="lazy">
 
-  <img src="/images/foto-2.png"
-       alt="Arachnid research and fieldwork"
-       loading="lazy">
-
-  <img src="/images/foto-3.png"
-       alt="Fieldwork with pelican spiders"
+  <img src="/images/foto-2.jpg"
+       alt="Arachnid research"
        loading="lazy">
 </div>
 
@@ -44,11 +40,23 @@ During my PhD, I explored these questions by studying the consequences of inters
 
   <h2 class="journey-title">Where am I now, and where am I headed?</h2>
 
+  <div class="story-gallery">
+  <img src="/images/foto-3.jpg"
+       alt="Fieldwork with pelican spiders in Madagascar"
+       loading="lazy">
+
+  <img src="/images/foto-4.jpg"
+       alt="Research at the Smithsonian National Museum of Natural History"
+       loading="lazy">
+</div>
+
   I am currently a Postdoctoral Fellow at the Smithsonian National Museum of Natural History in Washington, D.C., where I work with Malagasy pelican spiders. If you have never seen a pelican spider, [Google it right now](https://www.nickybay.com/pelican-spiders-the-spider-assassin-specialist/)...amazing!. My current research investigates what underlies their extraordinary morphological diversity and how it relates to ecology, behavior, and evolutionary history. As part of this work, I have traveled to Madagascar to find these spiders in their natural habitats.
 
   For me, science begins with curiosity and grows through collaboration. I especially enjoy connecting observations made in nature with evidence from experiments, museum collections, imaging, and comparative data. I also care deeply about making science accessible, and I enjoy sharing my research with others and inspiring some of the same enthusiasm I feel for evolution and arachnids. Outside the laboratory, I am happiest when I am surrounded by nature, looking for small creatures and taking photographs. 
 
   Feel free to contact me for any question or request!
+
+<div class="clear-story-gallery"></div>
 
 [Explore my research](/research/) · [See my publications](/selected-publications/) · [Contact me](mailto:oviedodiegom@si.edu)
 ------
